@@ -1,5 +1,5 @@
 # cobalt2.vim
-Cobalt 2 colorscheme for vim, converted from Wes Bos' Sublime Text adaptation: https://github.com/wesbos/cobalt2
+Cobalt 2 colorscheme for Vim, converted from Wes Bos' Sublime Text adaptation: https://github.com/wesbos/cobalt2
 
 Pull requests for additional language support are very welcome.
 

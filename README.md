@@ -20,7 +20,7 @@ Move `cobalt2.vim` to your `.vim/colors` directory.
 #### NeoBundle
 
 ```
-NeoBundle 'herrbischoff/cobalt2'
+NeoBundle 'herrbischoff/cobalt2.vim'
 ```
 
 ## License

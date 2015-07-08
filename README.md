@@ -1,15 +1,17 @@
 # cobalt2.vim
 Cobalt 2 colorscheme for Vim, converted from Wes Bos' Sublime Text adaptation: https://github.com/wesbos/cobalt2
 
-Pull requests for additional language support are very welcome.
+This colorscheme is very raw for now. HTML syntax highlighting is mostly
+complete, JavaScript and CSS are work-in-progress and a few bits of Twig are
+sprinkled in. Please consider this Alpha quality software for the time being.
+
+Pull requests for additional language support are very welcome. I'd be happy to
+hear from collaborators.
 
 ## Screenshots
 
 ### HTML
-![HTML](./html.png)
-
-### JavaScript
-![JavaScript](./js.png)
+![HTML](assets/html.png)
 
 ## Installation
 

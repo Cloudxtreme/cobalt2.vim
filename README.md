@@ -1,12 +1,13 @@
 # cobalt2.vim
 Cobalt 2 colorscheme for Vim, converted from Wes Bos' Sublime Text adaptation: https://github.com/wesbos/cobalt2
 
-This colorscheme is very raw for now. HTML syntax highlighting is mostly
+This colorscheme is raw for now. HTML syntax highlighting is mostly
 complete, JavaScript and CSS are work-in-progress and a few bits of Twig are
 sprinkled in. Please consider this Alpha quality software for the time being.
 
-Pull requests for additional language support are very welcome. I'd be happy to
-hear from collaborators.
+There are currently no terminal colors and given the limited color support of many terminal emulators, I don't I ever will. The scheme works quite good with Neovim though, if you enable its true color mode: `export NVIM_TUI_ENABLE_TRUE_COLOR=1`
+
+Pull requests for additional language support are very welcome.
 
 ## Screenshots
 
